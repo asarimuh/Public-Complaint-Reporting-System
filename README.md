@@ -58,4 +58,16 @@ php artisan key:generate
 php artisan migrate --seed
 php artisan serve
 ```
+## 📸 Application Preview
 
+### Login Page
+![img1](https://github.com/asarimuh/Public-Complaint-Reporting-System/blob/a783780d4161171228c4ea0038763515df2e449b/screenshots/loginPage.png)
+
+### Reports Page
+![img2](https://github.com/asarimuh/Public-Complaint-Reporting-System/blob/a783780d4161171228c4ea0038763515df2e449b/screenshots/masyarakat-reportsIndex.png)
+
+### Home Page
+![img4](https://github.com/asarimuh/Public-Complaint-Reporting-System/blob/a783780d4161171228c4ea0038763515df2e449b/screenshots/headStaff-landingPage.png)
+
+### Staff Management
+![img3](https://github.com/asarimuh/Public-Complaint-Reporting-System/blob/a783780d4161171228c4ea0038763515df2e449b/screenshots/headStaff-userManagement.png)
